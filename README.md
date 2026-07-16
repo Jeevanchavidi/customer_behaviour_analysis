@@ -283,7 +283,8 @@ I'm an aspiring Data Analyst passionate about transforming data into actionable 
 
 📧 Email: [jeevanchavidi@gmail.com](mailto:jeevanchavidi@gmail.com)
 
-💼 LinkedIn: linkedin.com/in/jeevan-chavidi-a07b4b291
+💼 LinkedIn: www.linkedin.com/in/jeevan-chavidi-a07b4b291
+
 
 💻 GitHub: https://github.com/Jeevanchavidi
 
